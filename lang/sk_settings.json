@@ -1,0 +1,17 @@
+{
+    "settings_title": "Nastavenia",
+    "settings_select_language": "Vyberte jazyk:",
+    "settings_save_button": "Uložiť nastavenia",
+    "settings_report_issue_button": "Nahlásiť problém",
+    "settings_view_log_button": "Zobraziť log súbor",
+    "settings_save_title": "Nastavenia",
+    "settings_save_message": "Nastavenia boli úspešne uložené.",
+    "settings_save_error": "Nepodarilo sa uložiť nastavenia",
+    "report_issue_title": "Nahlásiť problém",
+    "report_issue_message": "Problém bol úspešne nahlásený. Skontrolujte svojho e-mailového klienta, aby ste mohli odoslať správu.",
+    "settings_error_title": "Chyba",
+    "settings_email_send_error": "Nepodarilo sa pripraviť e-mail",
+    "settings_log_file_not_found": "Log súbor nebol nájdený.",
+    "settings_email_subject": "Nahlásenie problému: Aplikácia na kontrolu kódu",
+    "settings_email_body": "Dobrý deň Samuel,\n\nNarazil som na problém s aplikáciou na kontrolu kódu. Nižšie je obsah logu:"
+}

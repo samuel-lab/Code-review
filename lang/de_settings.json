@@ -1,0 +1,17 @@
+{
+    "settings_title": "Einstellungen",
+    "settings_select_language": "Sprache auswählen:",
+    "settings_save_button": "Einstellungen speichern",
+    "settings_report_issue_button": "Problem melden",
+    "settings_view_log_button": "Protokolldatei anzeigen",
+    "settings_save_title": "Einstellungen",
+    "settings_save_message": "Einstellungen erfolgreich gespeichert.",
+    "settings_save_error": "Fehler beim Speichern der Einstellungen",
+    "report_issue_title": "Problem melden",
+    "report_issue_message": "Problem erfolgreich gemeldet. Bitte überprüfen Sie Ihren E-Mail-Client, um den Bericht zu senden.",
+    "settings_error_title": "Fehler",
+    "settings_email_send_error": "Fehler beim Vorbereiten der E-Mail",
+    "settings_log_file_not_found": "Protokolldatei nicht gefunden.",
+    "settings_email_subject": "Problembericht: Code-Review-App",
+    "settings_email_body": "Hallo Samuel,\n\nIch bin auf ein Problem mit der Code-Review-App gestoßen. Nachfolgend finden Sie den Inhalt des Protokolls:"
+}

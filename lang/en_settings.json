@@ -1,0 +1,17 @@
+{
+    "settings_title": "Settings",
+    "settings_select_language": "Select Language:",
+    "settings_save_button": "Save Settings",
+    "settings_report_issue_button": "Report Issue",
+    "settings_view_log_button": "View Log File",
+    "settings_save_title": "Settings",
+    "settings_save_message": "Settings saved successfully.",
+    "settings_save_error": "Failed to save settings",
+    "report_issue_title": "Report Issue",
+    "report_issue_message": "Issue reported successfully. Please check your email client to send the report.",
+    "settings_error_title": "Error",
+    "settings_email_send_error": "Failed to prepare the email",
+    "settings_log_file_not_found": "Log file not found.",
+    "settings_email_subject": "Issue Report: Code Review App",
+    "settings_email_body": "Hello Samuel,\n\nI encountered an issue with the Code Review App. Below is the log content:"
+}

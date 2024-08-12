@@ -1,0 +1,17 @@
+{
+    "settings_title": "Configuración",
+    "settings_select_language": "Seleccionar idioma:",
+    "settings_save_button": "Guardar configuración",
+    "settings_report_issue_button": "Informar un problema",
+    "settings_view_log_button": "Ver archivo de registro",
+    "settings_save_title": "Configuración",
+    "settings_save_message": "Configuración guardada con éxito.",
+    "settings_save_error": "No se pudo guardar la configuración",
+    "report_issue_title": "Informar un problema",
+    "report_issue_message": "Problema reportado con éxito. Por favor, revise su cliente de correo electrónico para enviar el informe.",
+    "settings_error_title": "Error",
+    "settings_email_send_error": "No se pudo preparar el correo electrónico",
+    "settings_log_file_not_found": "Archivo de registro no encontrado.",
+    "settings_email_subject": "Informe de problema: Aplicación de revisión de código",
+    "settings_email_body": "Hola Samuel,\n\nMe encontré con un problema en la aplicación de revisión de código. A continuación se muestra el contenido del registro:"
+}
