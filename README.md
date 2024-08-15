@@ -86,5 +86,7 @@ Before you begin, ensure you have the following:
 - **Python 3.7 or higher**: The application is written in Python, so you need Python installed on your machine.
 - **Required Libraries**: The necessary Python packages are listed in the `requirements.txt` file.
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
