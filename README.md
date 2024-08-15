@@ -1,6 +1,16 @@
 # Code Review App
 
 A Python-based application designed to assist with code reviews by allowing users to input segments of code, annotate them, and generate a detailed PDF report. This tool provides a user-friendly interface, supports multiple languages, and integrates seamlessly with your workflow to ensure thorough and efficient code reviews.
+## Screenshots
+
+### Main Window
+![Main Window](./screenshots/main.png)
+
+### Settings Window
+![Settings Window](./screenshots/settings_language.png)
+
+### PDF Example
+![PDF Example](./screenshots/pdf.png)
 
 ## Project Description
 
